@@ -1,4 +1,4 @@
--Webasyst-Shop-Script-5-Pricelist
+Webasyst Shop-Script 6 Pricelist plugin
 =================================
 
-Webasyst Shop-Script 5 pricelist plugin v1.1
+Easy pricelist plugin v1.2
