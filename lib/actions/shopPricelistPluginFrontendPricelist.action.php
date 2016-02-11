@@ -40,7 +40,7 @@ class shopPricelistPluginFrontendPricelistAction extends shopFrontendAction
         }
         else
         {
-            $m->set(array('shop', 'pricelist'), 'cache_time', 600);
+            $m->set(array('shop', 'pricelist'), 'cache_time', 3600);
             $categories = $this->getPricelist();
         }
         // Set categories with products & template
